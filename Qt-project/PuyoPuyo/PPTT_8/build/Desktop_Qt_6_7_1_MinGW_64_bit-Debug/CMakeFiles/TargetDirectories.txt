@@ -1,0 +1,9 @@
+C:/Users/suzy1/OneDrive/Desktop/gameQt/PPTT_8/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/PPTT_8.dir
+C:/Users/suzy1/OneDrive/Desktop/gameQt/PPTT_8/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/suzy1/OneDrive/Desktop/gameQt/PPTT_8/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/suzy1/OneDrive/Desktop/gameQt/PPTT_8/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/suzy1/OneDrive/Desktop/gameQt/PPTT_8/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/suzy1/OneDrive/Desktop/gameQt/PPTT_8/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/suzy1/OneDrive/Desktop/gameQt/PPTT_8/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/suzy1/OneDrive/Desktop/gameQt/PPTT_8/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/PPTT_8_autogen_timestamp_deps.dir
+C:/Users/suzy1/OneDrive/Desktop/gameQt/PPTT_8/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/PPTT_8_autogen.dir

@@ -1,0 +1,41 @@
+@"
+# Visual Studio
+.vs/
+x64/
+x86/
+Debug/
+Release/
+
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.ipch
+
+# Build outputs
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.log
+
+# Qt
+*.pro.user
+build-*/
+moc_*
+qrc_*
+ui_*
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+*.rar
+*.7z
+"@ | Out-File -Encoding UTF8 .gitignore
